@@ -75,19 +75,6 @@ The goal of this project is to analyze why customers are leaving (churning), who
 
 ---
 
-## 📷 Dashboard Preview
-
-### Page 1 – Overview & Demographics  
-![Page 1](Customer Churn Analysis PowerBI/images/page1.png).
-
-### Page 2 – Services, Billing & Revenue  
-![Page 2](Customer Churn Analysis PowerBI/images/page2.png).
-
-### Page 3 – Contract Type & Tenure  
-![Page 3](Customer Churn Analysis PowerBI/images/page3.png).
-
----
-
 ## ✨ What Makes This Project Unique?
 
 - ✅ Combines churn analysis with revenue KPIs for business-focused insights
